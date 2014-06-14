@@ -4,10 +4,10 @@ A colorscheme inspired by iA Writer, adapted for terminals like [urxvt](http://s
 
 ## Screenshots
 
-### Dark
+### Pencil Dark
 
 ![Pencil Dark](screenshots/pencil-dark.png)
 
-### Light
+### Pencil Light
 
 ![Pencil Light](screenshots/pencil-light.png)
